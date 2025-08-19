@@ -1,3 +1,3 @@
 # Contact Info
 
-Email: me [at] alastairgould [dot] .co.uk
+Email: me [at] alastairgould [dot] co [dot] uk
