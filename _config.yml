@@ -7,4 +7,4 @@ title: Alastair Gould
 collections:
   snippets:
     output: true
-    permalink: /:collection/:snippet
+    permalink: /:collection/:name
