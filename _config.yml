@@ -3,3 +3,8 @@ plugins:
 - jekyll-remote-theme
 
 title: Alastair Gould
+
+collections:
+  snippets:
+    output: true
+    permalink: /:collection/:snippet

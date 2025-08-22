@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new-blog.sh
+snippet: new-blog.sh
 ---
 
 ```bash
