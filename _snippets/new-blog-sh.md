@@ -18,5 +18,4 @@ else
   echo "---" >>$FILE
   $EDITOR $FILE
 fi
-
 ```
